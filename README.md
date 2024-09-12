@@ -7,7 +7,7 @@ We provide you a direct access to Tron SunPump transactions through Java-tron's 
     </a>
 
 
-# Installation of connection script
+# Installation
 ````
 npm install zeromq@5 tronweb
 ````
